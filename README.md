@@ -1,16 +1,24 @@
-## Hi there 👋
+### Bonjour, je suis Lona 👋
 
-<!--
-**lona-dotcom/lona-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst Freelance** spécialisé en Python, SQL et visualisation de données.
 
-Here are some ideas to get you started:
+Je transforme les données complexes en insights clairs et actionnables pour aider les entreprises à prendre de meilleures décisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Compétences
+- **Langages** : Python, SQL
+- **Outils** : Pandas, NumPy, Matplotlib, Seaborn, Plotly, Power BI
+- **Autres** : Jupyter, Git, Excel avancé
+
+---
+
+### 📌 Projets phares
+- [Nom du projet 1](lien) → Courte description + résultat
+- [Nom du projet 2](lien) → Courte description + résultat
+- [Nom du projet 3](lien) → Courte description + résultat
+
+---
+
+### 🔗 Me contacter
+[LinkedIn](https://www.linkedin.com/in/razanakoto-lovatahiana-nomenjanahary-4060aa2a6/) • [Email](lonaloraz@gmail.com) • [facebook](https://www.linkedin.com/in/razanakoto-lovatahiana-nomenjanahary-4060aa2a6/)

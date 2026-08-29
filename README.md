@@ -21,4 +21,4 @@ Je transforme les données complexes en insights clairs et actionnables pour aid
 ---
 
 ### 🔗 Me contacter
-[LinkedIn](https://www.linkedin.com/in/razanakoto-lovatahiana-nomenjanahary-4060aa2a6/) • [Email](lonaloraz@gmail.com) • [facebook](https://www.linkedin.com/in/razanakoto-lovatahiana-nomenjanahary-4060aa2a6/)
+[LinkedIn](https://www.linkedin.com/in/razanakoto-lovatahiana-nomenjanahary-4060aa2a6/) • [Email](lonaloraz@gmail.com) • [facebook](https://www.linkedin.com/in/razanakoto-lovatahiana-nomenjanahary-4060aa2a6/) • [X](https://x.com/lonaloraz)

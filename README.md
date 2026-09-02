@@ -2,7 +2,6 @@
   <img src="portfolio_github.jpg" alt="Bannière Data Analyst" width="100%" style="max-height: 140px; object-fit: cover; border-radius: 12px; border: 1px solid #e1e4e8;" />
 </p>
 
----
 
 # Bonjour, je suis RAZANAKOTO **Lovatahiana** 👋
 
@@ -10,9 +9,11 @@
 
 Je transforme les données complexes en insights clairs et actionnables pour aider les entreprises à prendre de meilleures décisions.
 
+
 ---
 
-<img src="competence.jpg" alt="competence" width="300"/>
+
+<img src="compet.jpg" alt="competence" width="300"/>
 
 <!-- Outils & IDE -->
 ### 💻 Environnement de travail (IDE & Outils)
@@ -24,7 +25,6 @@ Je transforme les données complexes en insights clairs et actionnables pour aid
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
 
 ### 📊 Outils Data
 
@@ -35,7 +35,6 @@ Je transforme les données complexes en insights clairs et actionnables pour aid
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
----
 
 ### 🖥️ Système
 
@@ -52,10 +51,22 @@ Je transforme les données complexes en insights clairs et actionnables pour aid
 
 ---
 
-<h2 style="color: #e91e63;">📬 Me contacter</h2> <!-- Rose vif pour attirer l'œil -->
+<h2 style="color: #e91e63;">📬 Me contacter</h2>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/razanakoto-lovatiahiana-nomenjanahary-4060aa2a6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/></a>
-  <a href="mailto:lonaloraz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/></a>
-  <a href="https://x.com/lonaloraz"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/></a>
-  <a href="https://www.facebook.com/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/></a>
+  <a href="https://www.linkedin.com/in/razanakoto-lovatiahiana-nomenjanahary-4060aa2a6/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  
+  <a href="mailto:lonaloraz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  
+  <a href="https://x.com/lonaloraz">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
+  
+  <a href="https://www.facebook.com/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
 </p>

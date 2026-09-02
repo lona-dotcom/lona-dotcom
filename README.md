@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./portfolio_github.jpg" alt="Data Analyst Banner" width="100%">
+</p>
+
+---
+
 ### Bonjour, je suis Lona 👋
 
 **Data Analyst Freelance** spécialisé en Python, SQL et visualisation de données.

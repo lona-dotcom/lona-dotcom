@@ -29,20 +29,30 @@ Je transforme les données complexes en insights clairs et actionnables pour aid
 ### 📊 Outils Data
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![DAX Studio](https://img.shields.io/badge/DAX_Studio-2C2D30?style=for-the-badge&logo=daxstudio&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-F7DF1E?style=for-the-badge&logo=duckdb&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
 
-### 📌 Projets phares
+### 🖥️ Système
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
+---
+
+## 📌 Projets phares
 - [Nom du projet 1](lien) → Courte description + résultat
 - [Nom du projet 2](lien) → Courte description + résultat
 - [Nom du projet 3](lien) → Courte description + résultat
 
 ---
 
-### 🔗 Me contacter
+## 🔗 Me contacter
 <p align="center">
   <a href="https://www.linkedin.com/in/razanakoto-lovatiahiana-nomenjanahary-4060aa2a6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/></a>
   <a href="mailto:lonaloraz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/></a>

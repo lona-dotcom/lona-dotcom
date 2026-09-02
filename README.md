@@ -4,7 +4,7 @@
 
 ---
 
-### Bonjour, je suis Lona 👋
+## Bonjour, je suis RAZANAKOTO **Lovatahiana** 👋
 
 **Data Analyst Freelance** spécialisé en Python, SQL et visualisation de données.
 

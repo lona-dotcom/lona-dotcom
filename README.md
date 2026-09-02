@@ -12,7 +12,7 @@ Je transforme les données complexes en insights clairs et actionnables pour aid
 
 ---
 
-## 🛠️ Compétences
+<h2 style="color: #3b82f6; text-shadow: 2px 2px 4px rgba(0,0,0,0.2);">🛠️ Compétences</h2>
 
 <!-- Outils & IDE -->
 ### 💻 Environnement de travail (IDE & Outils)
@@ -52,7 +52,7 @@ Je transforme les données complexes en insights clairs et actionnables pour aid
 
 ---
 
-## 🔗 Me contacter
+<h2 style="color: #e91e63;">📬 Me contacter</h2> <!-- Rose vif pour attirer l'œil -->
 <p align="center">
   <a href="https://www.linkedin.com/in/razanakoto-lovatiahiana-nomenjanahary-4060aa2a6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/></a>
   <a href="mailto:lonaloraz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/></a>

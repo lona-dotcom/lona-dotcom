@@ -12,7 +12,7 @@ Je transforme les données complexes en insights clairs et actionnables pour aid
 
 ---
 
-<h2 style="color: #3b82f6; text-shadow: 2px 2px 4px rgba(0,0,0,0.2);">🛠️ Compétences</h2>
+<img src="competence.jpg" alt="competence" width="300"/>
 
 <!-- Outils & IDE -->
 ### 💻 Environnement de travail (IDE & Outils)

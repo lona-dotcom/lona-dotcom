@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="./portfolio_github.jpg" alt="Data Analyst Banner" width="100%">
+  <img src="portfolio_github.jpg" alt="Bannière Data Analyst" width="100%" style="max-height: 140px; object-fit: cover; border-radius: 12px; border: 1px solid #e1e4e8;" />
 </p>
 
 ---
 
-## Bonjour, je suis RAZANAKOTO **Lovatahiana** 👋
+# Bonjour, je suis RAZANAKOTO **Lovatahiana** 👋
 
 **Data Analyst Freelance** spécialisé en Python, SQL et visualisation de données.
 
@@ -43,4 +43,9 @@ Je transforme les données complexes en insights clairs et actionnables pour aid
 ---
 
 ### 🔗 Me contacter
-[LinkedIn](https://www.linkedin.com/in/razanakoto-lovatahiana-nomenjanahary-4060aa2a6/) • [Email](lonaloraz@gmail.com) • [facebook](https://www.linkedin.com/in/razanakoto-lovatahiana-nomenjanahary-4060aa2a6/) • [X](https://x.com/lonaloraz)
+<p align="center">
+  <a href="https://www.linkedin.com/in/razanakoto-lovatiahiana-nomenjanahary-4060aa2a6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/></a>
+  <a href="mailto:lonaloraz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/></a>
+  <a href="https://x.com/lonaloraz"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/></a>
+  <a href="https://www.facebook.com/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/></a>
+</p>

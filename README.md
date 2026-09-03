@@ -46,8 +46,8 @@ Je transforme les données complexes en insights clairs et actionnables pour aid
 
 ## 📌 Projets phares
 - **projet 1 → En cours de developpement...**
-- **projet 1 → En cours de developpement...**
-- **projet 1 → En cours de developpement...**
+- **projet 2 → En cours de developpement...**
+- **projet 3 → En cours de developpement...**
 
 ---
 
